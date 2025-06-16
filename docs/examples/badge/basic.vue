@@ -5,7 +5,7 @@
   <el-badge :value="3" class="item">
     <el-button>replies</el-button>
   </el-badge>
-  <el-badge :value="1" class="item" type="primary">
+  <el-badge :value="1" class="item" type="success">
     <el-button>comments</el-button>
   </el-badge>
   <el-badge :value="2" class="item" type="warning">
